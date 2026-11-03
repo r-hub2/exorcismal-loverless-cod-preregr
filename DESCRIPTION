@@ -56,7 +56,7 @@ Depends: R (>= 4.1)
 VignetteBuilder: knitr
 Config/roxygen2/version: 8.1.1
 NeedsCompilation: no
-Packaged: 2026-11-03 15:01:43 UTC; gjalt
+Packaged: 2026-11-03 15:25:51 UTC; gjalt
 Author: Gjalt-Jorn Peters [aut, cre] (ORCID:
     <https://orcid.org/0000-0002-0336-9589>),
   Szilvia Zörgő [ctb] (ORCID: <https://orcid.org/0000-0002-6916-2097>),
