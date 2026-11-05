@@ -40,7 +40,7 @@ Description: Preregistrations, or more generally, registrations, enable
     (using 'JSON'), as well as importing such exported (pre)registration
     specifications from such embedded 'JSON'.
 URL: https://preregr.opens.science
-BugReports: https://gitlab.com/r-packages/preregr/-/issues
+BugReports: https://codeberg.org/R-packages/preregr/issues
 License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true
@@ -56,7 +56,7 @@ Depends: R (>= 4.1)
 VignetteBuilder: knitr
 Config/roxygen2/version: 8.1.1
 NeedsCompilation: no
-Packaged: 2026-11-03 15:25:51 UTC; gjalt
+Packaged: 2026-11-05 17:11:28 UTC; gjalt
 Author: Gjalt-Jorn Peters [aut, cre] (ORCID:
     <https://orcid.org/0000-0002-0336-9589>),
   Szilvia Zörgő [ctb] (ORCID: <https://orcid.org/0000-0002-6916-2097>),
